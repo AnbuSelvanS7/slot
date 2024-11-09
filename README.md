@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex04 Time Table
 ## Date:06-11-2024
 
 ## AIM
